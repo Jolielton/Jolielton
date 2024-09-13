@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">Javascript Developer</h4>
+<h6 align="left">Javascript Developer</h6>
 
 ###
 

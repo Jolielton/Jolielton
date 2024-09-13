@@ -1,8 +1,8 @@
-<h4 align="left">About me</h4>
+<h2 align="left">Hello everyone !!</h2>
 
 ###
 
-<h6 align="left">Javascript Developer</h6>
+<h4 align="left">I'm Jolielton, I'm a developer<br>javascript. See my performance here</h4>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<div align="left">
+<div align="center">
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />

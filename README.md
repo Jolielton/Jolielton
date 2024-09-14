@@ -1,12 +1,9 @@
+
 <h2 align="left">Hello everyone !!</h2>
 
 ###
 
 <h4 align="center">I'm Jolielton, I'm a developer<br>javascript. See my performance here</h4>
-
-###
-
-<p align="left">Techs</p>
 
 ###
 
@@ -26,20 +23,16 @@
 
 ###
 
-<p align="left">Stats</p>
-
-###
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jolielton&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=github_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jolielton&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jolielton&radius=16&theme=cobalt&area=true&order=5" height="300" alt="activity-graph graph"  />
+  <img height="500" src="https://user-images.githubusercontent.com/70382532/138322189-2db8df52-9dcb-40a0-88a8-c365466bd33d.gif"  />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/jolielton/count.svg?"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=jolielton&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jolielton&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=jolielton&locale=en&mode=daily&theme=highcontrast&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
 ###

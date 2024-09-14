@@ -1,8 +1,6 @@
-<h3 align="center">Hello everyone !!</h3>
-
 ###
 
-<h4 align="center">I'm Jolielton, I'm a developer<br>javascript. See my performance here</h4>
+<h4 align="center">Hello! I'm Jolielton, I'm a developer<br>javascript. See my performance here</h4>
 
 ###
 

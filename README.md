@@ -1,4 +1,4 @@
-<p align="left">Hello World! I'm Jolielton. I'm Javascript developer. See my eolution here !</p>
+<p align="left">Hello World! I'm Jolielton. I'm Javascript developer. See my evolution here !</p>
 
 ###
 

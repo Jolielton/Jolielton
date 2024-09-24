@@ -9,7 +9,7 @@
   <img width="12" />
   <img src="https://img.shields.io/badge/Node.js-339933?logo=nodedotjs&logoColor=white&style=for-the-badge" height="29" alt="nodejs logo"  />
   <img width="12" />
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge" height="29" alt="python logo"  />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" height="29" alt="figma logo"  />
   <img width="12" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge" height="29" alt="mongodb logo"  />
   <img width="12" />
